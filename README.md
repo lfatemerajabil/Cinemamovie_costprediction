@@ -1,1 +1,3 @@
 # Datamining
+This repository is about work on a cinema's movies dataset and implementing some datamining algorithms on it... 
+you can find this dataset from this link(https://www.kaggle.com/gauravduttakiit/cinema-movie)
